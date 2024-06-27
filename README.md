@@ -1,6 +1,6 @@
 # Heart Disease Prediction Project
 ## Introduction
-This project aims to predict the presence of heart disease in patients using a dataset containing various medical attributes. Accurate prediction of heart disease can help in early diagnosis and treatment, potentially saving lives. The dataset used in this project is sourced from the UCI Machine Learning Repository.
+This project aims to predict the presence of heart disease in patients using a dataset containing various medical attributes. Accurate prediction of heart disease can help in early diagnosis and treatment, potentially saving lives. The dataset used in this project is sourced from Kaggle.
 
 ## Goal
 The primary goal of this project are to getting insights from the dataset, and to develop a machine learning model that can accurately predict whether a patient has heart disease based on their medical attributes. Additionally, the project includes the deployment of the model using Streamlit to create an interactive web application for user-friendly predictions.
