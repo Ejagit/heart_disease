@@ -39,6 +39,3 @@ The primary goal of this project are to getting insights from the dataset, and t
 ### Results
 The results section will detail the performance of the selected model, including the evaluation metrics used. The final model's accuracy, precision, recall, and F1-score will be reported, along with any insights gained from the analysis and modeling process, By following these steps, the heart disease prediction model can be effectively implemented in real-world healthcare environments, providing valuable insights and aiding in the early diagnosis and treatment of heart disease. For detailed code and documentation, please refer to the project's GitHub repository.
 
-## Deployment with Streamlit
-To make the heart disease prediction model accessible to users, we deploy it as a web application using Streamlit. Below are the steps for deployment:
-### Install Streamlit: Ensure Streamlit is installed in your Python environment.
